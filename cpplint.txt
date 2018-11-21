@@ -1,0 +1,3 @@
+akshay@akshay-Inspiron-5577:~/sdv_catkin_ws/src/gazebot_walker$ cpplint.py src/Walker.cpp src/main.cpp Done processing src/Walker.cpp
+Done processing src/main.cpp
+Total errors found: 0
