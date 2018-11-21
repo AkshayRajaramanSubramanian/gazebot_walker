@@ -1,4 +1,5 @@
-[![APMLicense](https://img.shields.io/apm/l/:package.svg)](https://raw.githubusercontent.com/AkshayRajaramanSubramanian/gazebot_walker/master/LICENSE.md)
+[![Cocoapods](https://img.shields.io/cocoapods/l/AFNetworking.svg)](https://raw.githubusercontent.com/AkshayRajaramanSubramanian/gazebot_walker/master/LICENSE.md)
+
 # gazebot_walker
 # ENPM 808X PROGRAMMING ASSIGNMENT
 ## Description
